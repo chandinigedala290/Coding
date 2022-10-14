@@ -1,0 +1,6 @@
+import array as myarr 
+first = myarr.array('b' , [4,6,8])
+second = myarr.array('b' , [9,12,15])
+numbers = myarr.array('b')
+numbers = first + second 
+print(numbers)
